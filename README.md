@@ -113,8 +113,6 @@ app.get('/callback', async (req, res) => {
 app.listen(3000, () => console.log('Client running on http://localhost:3000'));
 ```
  
-> ⚠️ Don't commit real client secrets. For a real repo, move `CLIENT_SECRET` into a `.env` file and load it with `dotenv`, then add `.env` to `.gitignore`.
- 
 ### 4. Run it
  
 ```bash
