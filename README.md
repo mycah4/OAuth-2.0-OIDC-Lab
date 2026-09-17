@@ -1,5 +1,3 @@
-# OAuth-2.0-OIDC-Lab
-
 # OAuth 2.0 / OIDC Lab
  
 A hands-on lab demonstrating the OAuth 2.0 Authorization Code flow using [Keycloak](https://www.keycloak.org/) as the Authorization Server and a minimal Node.js/Express app as the Client.
